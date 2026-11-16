@@ -42,12 +42,22 @@
     },
     {
       "platform": "aihorde",
-      "status": "unknown",
+      "status": "healthy",
+      "enabled": true
+    },
+    {
+      "platform": "requesty",
+      "status": "healthy",
+      "enabled": true
+    },
+    {
+      "platform": "xkiro",
+      "status": "healthy",
       "enabled": true
     }
   ],
   "catalog": {
-    "models": 483,
+    "models": 475,
     "platforms": 42
   },
   "agents": [
